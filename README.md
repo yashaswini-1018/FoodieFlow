@@ -61,7 +61,6 @@ FoodieFlow/
 ├── package.json
 ├── README.md
 └── .gitignore
-
 ## 🧭 How to Run the Project Locally
 
 1. **Clone the repository:**
